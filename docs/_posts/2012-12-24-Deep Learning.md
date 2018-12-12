@@ -1,6 +1,5 @@
 ---
-path: '/login'
-title: 'Authenticate'
+title: 'Deep Learning'
 
 layout: nil
 ---
