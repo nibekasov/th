@@ -4,16 +4,8 @@ title: 'Machine Learning'
 layout: nil
 ---
 
-This method allows users to retrieve stuff.
+### Временные ряды
 
-### Response
+#### Расстояние между временными рядами
 
-Sends back a collection of things.
-
-```Authentication: bearer TOKEN```
-```{
-    id: thing_2,
-    name: 'My second thing'
-}```
-
-For errors responses, see the [response status codes documentation](#response-status-codes).
+* [DTW](https://www.youtube.com/watch?v=tfOevFKQIjQ&t=327s)
