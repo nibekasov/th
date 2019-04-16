@@ -4,8 +4,6 @@ author: "Ахмедушка"
 output:
   pdf_document: 
     latex_engine: xelatex
-header-includes:
-   - \usepackage[russian]{babel}
 ---
 
 ```{r setup, include=FALSE}
