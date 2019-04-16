@@ -2,8 +2,9 @@
 title: "Задачи "
 author: "Ахмедушка"
 output:
-  pdf_document: 
+  pdf_document:
     latex_engine: xelatex
+mainfont: Arial
 ---
 
 ```{r setup, include=FALSE}
