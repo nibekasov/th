@@ -1,9 +1,11 @@
 ---
-title: "Задачи на Python"
+title: "Задачи "
 author: "Ахмедушка"
 output:
-  html_document:
-    df_print: paged
+  pdf_document: 
+    latex_engine: xelatex
+header-includes:
+   - \usepackage[russian]{babel}
 ---
 
 ```{r setup, include=FALSE}
